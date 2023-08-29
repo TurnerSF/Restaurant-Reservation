@@ -98,7 +98,6 @@ Explore the Restaurant Reservation System and experience hassle-free reservation
 1. Clone the Repository
 Clone and fork the repository to get started.
 
-2. Install and Run
+2. Run npm install to install the necessary dependencies.
 
-Run npm install to install the necessary dependencies.
 Launch the application with npm start.
