@@ -32,7 +32,6 @@ function ReservationForm({ handleChange, handleSubmit, formData }) {
           {/* Input fields for last name */}
           <input
             type="text"
-            pattern="[0-9\-]*"
             name="last_name"
             className="formcreation ml-3"
             id="last_name"
